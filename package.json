@@ -1,0 +1,28 @@
+{
+  "name": "module-12-repo",
+  "version": "1.0.0",
+  "description": "Developing a command-line application to manage a company's employee database.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boldus/Module-12-Repo.git"
+  },
+  "keywords": [
+    "node.js",
+    "inquirer",
+    "mysql"
+  ],
+  "author": "Juan Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boldus/Module-12-Repo/issues"
+  },
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.4",
+    "mysql2": "^2.3.3"
+  }
+}
