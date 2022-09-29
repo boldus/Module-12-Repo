@@ -1,4 +1,4 @@
--- Inserts names of departments into department table
+
 INSERT INTO department
   (name)
 VALUES
@@ -7,7 +7,6 @@ VALUES
   ('Finance'),
   ('Legal');
 
--- Inserts roles of employee into role table
 INSERT INTO role
   (title, salary, department,)
 VALUES
